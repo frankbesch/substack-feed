@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Frank Besch</title>
+  <link>https://frankbesch.github.io/substack-feed/</link>
+  <atom:link href="https://frankbesch.github.io/substack-feed/feed.xml" rel="self" type="application/rss+xml"/>
+  <description>Governed autonomy: running sales, operations, and a career as an AI operation, with receipts.</description>
+  <language>en-us</language>
+  <lastBuildDate>Mon, 14 Sep 2026 19:55:56 +0000</lastBuildDate>
+  <item>
+    <title>What&#x27;s the Widest Circle You&#x27;re Willing to Play For?</title>
+    <link>https://frankbesch.github.io/substack-feed/widest-circle.html</link>
+    <guid isPermaLink="true">https://frankbesch.github.io/substack-feed/widest-circle.html</guid>
+    <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+    <description>A 2008 sales-team game, and the physics paper that finally explained it</description>
+    <content:encoded><![CDATA[
+<p>In 2008 I ran a game with our regional sales and presales teams at Oracle. I thought it was a lesson about teamwork. A physics paper published this summer finally explained what I'd seen.</p>
+<p>Our applications reps and technology reps chased the same accounts on separate quotas. Same company, opposite incentives. As territorial as it gets.</p>
+<p>So I put apps on one side and tech on the other, gave everyone cards marked C (cooperate) and D (defect), and reframed the Prisoner's Dilemma. Not prisoners. Two account teams working the same deal. Play C and the account grows. Play D and you win the round but shrink the pie.</p>
+<p>We ran several rounds. Trust built. Total value climbed.</p>
+<p>Then the last round. One team played D for their own best outcome, exactly what the game rewarded. That one rational move erased most of what we'd built, and the teams finished dead even.</p>
+<p>I ribbed the guy who called it for the rest of the fiscal year, joking that he only cared about himself. But he wasn't the problem. The game was, and I had built it too small.</p>
+<p>That's what stuck with me. I didn't have the physics or today's language, but I walked out knowing there was a second game sitting on top of the first one.</p>
+<p>Three physicists just put numbers to what I watched happen. Their model runs the Prisoner's Dilemma at two levels: individuals competing inside a group, and groups competing against each other. Left alone, a group drifts toward defection. Zoom out, and the groups with more cooperators outgrow the rest.</p>
+<p>So the famous lesson, "rational players defect," isn't wrong. It's answering the wrong question.</p>
+<p>The better question is: what is the unit of competition?</p>
+<p>A rep can win the quarter and lose the renewal. A team can hit its number while burning the customer it was hired to serve. A business unit can win every internal fight and still watch the company lose the market.</p>
+<p>Selfishness pays locally. Cooperation compounds one level up.</p>
+<p>Which means cooperation is something you design for, and something you choose.</p>
+<p>Leaders set the payoffs. That's real. But every rep and sales engineer also decides how wide to draw the circle around winning. Their own number. Their team's. The customer's.</p>
+<p>Draw it wide enough to include the customer and the three wins line up. The customer gets one account team instead of three silos. The company keeps the renewal. And you build the kind of reputation no single quarter can buy.</p>
+<p>Before your next move: what's the widest circle you're willing to play for?</p>
+<p>Source: Ispolatov, Simon, and Doebeli, "Evolution of cooperation in spatially structured group-selection models of the continuous Prisoner's Dilemma," <a href="https://arxiv.org/abs/2606.03071">arXiv:2606.03071</a> (June 2026).</p>
+<p>Still grateful to the Oracle apps and tech teams who played along in 2008. They taught me more than I taught them.</p>
+<hr/>
+<p><em>First published on LinkedIn, 8 July 2026. Lightly revised. <a href="https://www.linkedin.com/feed/update/urn:li:activity:7480639180218204160/">Original post</a>.</em></p>
+]]></content:encoded>
+  </item>
+  <item>
+    <title>Intelligence Generates Possibilities. You Get Paid for the Decision.</title>
+    <link>https://frankbesch.github.io/substack-feed/variance-you-pay-for.html</link>
+    <guid isPermaLink="true">https://frankbesch.github.io/substack-feed/variance-you-pay-for.html</guid>
+    <pubDate>Thu, 04 Jun 2026 12:00:00 +0000</pubDate>
+    <description>Mark Cuban is half right about enterprise AI&#x27;s biggest problem</description>
+    <content:encoded><![CDATA[
+<p>Mark Cuban says the biggest problem with enterprise AI is that you still can't guarantee everyone gets the same answer to the same question every time.</p>
+<p>He's half right. The problem isn't the variance. It's that we treat all variance the same.</p>
+<p>Humans don't give the same answer every time either. We don't try to force them to.</p>
+<p>The question was never how to eliminate variance. It's knowing where variance is useful and where it is unacceptable.</p>
+<p>Writing a marketing email? Variance is useful.</p>
+<p>Approving a loan, detecting fraud, or determining a treatment plan? Variance becomes a governance and accountability problem. Not because the answer changed, but because someone has to own the consequence.</p>
+<p>Which is why the next wave of enterprise AI won't be won by the organizations with the best models.</p>
+<p>It will be won by those who best encode objectives, constraints, policies, and judgment into operational decision systems.</p>
+<p>Intelligence generates possibilities.</p>
+<p>You get paid for the decision.</p>
+<p>Source: <a href="https://x.com/mcuban/status/2051291851185955289">the Mark Cuban thread that prompted this</a>.</p>
+<hr/>
+<p><em>First published on LinkedIn, 4 June 2026. Lightly revised. <a href="https://www.linkedin.com/feed/update/urn:li:activity:7468274108225445888/">Original post</a>.</em></p>
+]]></content:encoded>
+  </item>
+  <item>
+    <title>LLMs Don&#x27;t Replace Knowledge Work. They Raise the Return on It.</title>
+    <link>https://frankbesch.github.io/substack-feed/judgment-is-the-moat.html</link>
+    <guid isPermaLink="true">https://frankbesch.github.io/substack-feed/judgment-is-the-moat.html</guid>
+    <pubDate>Wed, 27 May 2026 12:00:00 +0000</pubDate>
+    <description>What a stalled platform deal taught me about the 1% of context that matters</description>
+    <content:encoded><![CDATA[
+<p>A few years back, I had a $4.5M analytics platform deal going sideways.</p>
+<p>Too many stakeholders, poorly qualified, everyone "interested," and no one actually deciding. The kind of deal that doesn't blow up. It just dies slowly.</p>
+<p>So we reset it. Ran real discovery this time. Underneath the noise there were only two things that mattered to them: inventory visibility and operational risk. We quantified what those were costing, found the person who could actually say yes (the COO, who had been in the room the whole time), and stopped selling the technology. We started selling the decision.</p>
+<p>Closed in about five months.</p>
+<p>I keep thinking about that deal because of all the AI talk.</p>
+<p>It didn't turn on information. We were drowning in information. It turned on judgment: figuring out which 1% of context actually changed the answer, and having the discipline to throw the rest out.</p>
+<p>That is the exact skill everyone now assumes LLMs are about to make worthless.</p>
+<p>I think that's backward.</p>
+<p>Yes, LLMs are displacing knowledge workers. But here's the part nobody says out loud: the only way to get an LLM to beat a good knowledge worker is to do exceptional knowledge work first. We all have the same models now. The model was never the differentiator. The framing is. The context is. Knowing what decision you are even trying to make is.</p>
+<p>A weak operator writes a vague prompt and gets a confident, mediocre answer. A strong one frames the actual problem and gets something worth using. The model didn't close that gap. If anything, it widened it.</p>
+<p>Off-the-shelf prediction is getting cheap and abundant. Judgment, optimization, and knowing what not to do hold their value.</p>
+<p>So I've stopped believing LLMs replace knowledge work. They raise the return on it. Generic prediction is becoming a commodity. Applied judgment is the moat.</p>
+<hr/>
+<p><em>First published on LinkedIn, 27 May 2026. Lightly revised. <a href="https://www.linkedin.com/feed/update/urn:li:activity:7465428449155833856/">Original post</a>.</em></p>
+]]></content:encoded>
+  </item>
+  <item>
+    <title>A 99% Accurate Model Can Still Be a Bad Decision</title>
+    <link>https://frankbesch.github.io/substack-feed/accuracy-is-not-a-decision.html</link>
+    <guid isPermaLink="true">https://frankbesch.github.io/substack-feed/accuracy-is-not-a-decision.html</guid>
+    <pubDate>Fri, 22 May 2026 12:00:00 +0000</pubDate>
+    <description>Prediction answers &quot;what is likely.&quot; Optimization answers &quot;what should we do.&quot;</description>
+    <content:encoded><![CDATA[
+<p>A fraud model can be 99% accurate and still be a bad decision.</p>
+<p>If the 1% it flags happens to be your most loyal customers, you didn't catch fraud. You taught good people to leave.</p>
+<p>Prediction answers "what is likely?" Optimization answers "what should we do?" Those are different problems, and we keep confusing them.</p>
+<p>Accuracy was never the objective. The objective is economic. Every score cutoff, every policy rule, every override is a bet about which tradeoffs you are willing to accept. That judgment layer, not the model underneath it, is where the real decisions live.</p>
+<p>Now LLMs are making prediction abundant. Anyone can generate a competent predictive model in an afternoon. Andrej Karpathy has made this point better than I can.</p>
+<p>So the scarce skill isn't building the model anymore. It's knowing what to optimize, which constraints are real, and what not to do.</p>
+<p>The math is becoming the commodity. The judgment is becoming the moat.</p>
+<hr/>
+<p><em>First published on LinkedIn, 22 May 2026. Lightly revised. <a href="https://www.linkedin.com/feed/update/urn:li:activity:7463563088903127040/">Original post</a>.</em></p>
+]]></content:encoded>
+  </item>
+  <item>
+    <title>Poe&#x27;s Law for the AI Era</title>
+    <link>https://frankbesch.github.io/substack-feed/poes-law.html</link>
+    <guid isPermaLink="true">https://frankbesch.github.io/substack-feed/poes-law.html</guid>
+    <pubDate>Wed, 06 May 2026 12:00:00 +0000</pubDate>
+    <description>When everything sounds credible, discernment is the scarce asset</description>
+    <content:encoded><![CDATA[
+<p>Poe's Law feels increasingly relevant in the AI era.</p>
+<p>Originally it described how satire online became indistinguishable from sincere belief.</p>
+<p>Now we may be facing a different version.</p>
+<p>AI can generate polished prose, executive tone, strategic frameworks, and highly plausible recommendations at scale. A board memo, an AI-generated account plan, or an architecture recommendation can look sophisticated while containing shallow reasoning, weak assumptions, or little operational grounding.</p>
+<p>Which means "sounds credible" is no longer strong evidence of actual expertise.</p>
+<p>The real challenge becomes distinguishing:</p>
+<ul><li>judgment from confidence</li><li>insight from synthesis</li><li>experience from prediction</li><li>operational truth from polished abstraction</li></ul>
+<p>As content becomes abundant and inexpensive, discernment becomes disproportionately valuable.</p>
+<p>In a world flooded with synthetic competence, judgment may become the scarcest enterprise asset.</p>
+<hr/>
+<p><em>First published on LinkedIn, 6 May 2026. Lightly revised. <a href="https://www.linkedin.com/feed/update/urn:li:activity:7457798723579035649/">Original post</a>.</em></p>
+]]></content:encoded>
+  </item>
+  <item>
+    <title>If Your Prompt Is Getting Longer, You Might Be Getting Worse</title>
+    <link>https://frankbesch.github.io/substack-feed/context-compression.html</link>
+    <guid isPermaLink="true">https://frankbesch.github.io/substack-feed/context-compression.html</guid>
+    <pubDate>Sat, 18 Apr 2026 12:00:00 +0000</pubDate>
+    <description>A short take on context, compression, and starting from the decision</description>
+    <content:encoded><![CDATA[
+<p>An AI read my USPS tracking number and confidently reported it as a nine-sextillion-digit number.</p>
+<p>I saw a package.</p>
+<p>Context matters. And the way most teams add context is making things worse.</p>
+<p><strong>Stop shipping AI-generated context without compression.</strong> A recent study of repository-level context files for coding agents (<a href="https://arxiv.org/abs/2602.11988">Gloaguen et al., arXiv:2602.11988</a>) found the pattern: more tokens bring more constraints, and more constraints bring worse performance.</p>
+<p>The trap is subtle. AI-generated context looks high quality. It is clean, structured, and comprehensive. But most of it is repackaged information the model already knows. No new signal, just noise with confidence.</p>
+<p>High-performing teams ask a different question. Not "what else should we add?" but "what can we remove?"</p>
+<p><strong>Optimizing AI for cost is the same distraction from the other side.</strong> Cheap prompts that drive weak decisions are expensive. In sales and presales, that shows up as slower deals and lost revenue.</p>
+<p>So start with the decision, not the task.</p>
+<ul><li>Include only the context that changes the answer.</li><li>Force a tight output: verdict, then drivers, then risks.</li></ul>
+<p>Fewer prompts. Better decisions. Faster outcomes.</p>
+<p>Efficiency is tactical. Efficacy is leverage.</p>
+<hr/>
+<p><em>Merged from three LinkedIn posts, 18 April, 23 April, and 13 May 2026. Lightly revised. <a href="https://www.linkedin.com/feed/update/urn:li:activity:7451368574218133504/">Original post</a>.</em></p>
+]]></content:encoded>
+  </item>
+  <item>
+    <title>Delete &quot;I Told You So&quot; From Your Mind</title>
+    <link>https://frankbesch.github.io/substack-feed/i-told-you-so.html</link>
+    <guid isPermaLink="true">https://frankbesch.github.io/substack-feed/i-told-you-so.html</guid>
+    <pubDate>Tue, 15 Mar 2022 12:00:00 +0000</pubDate>
+    <description>What moving furniture taught me about psychological safety</description>
+    <content:encoded><![CDATA[
+<p>The weekend before last, I helped my brother and sister-in-law move furniture and prepare their home for new carpet. Along the way I got an inside view of how they collaborate.</p>
+<p>My favorite moment came when one of her moving ideas didn't work and she joked, "I lied to you." My brother didn't say, "I told you so." They both chuckled and kept teaming.</p>
+<p>The magic started when she recognized her idea had failed and playfully self-deprecated. I have never had as much fun moving furniture.</p>
+<p>Some research says moving is more stressful than divorce. That may be an exaggeration, but I know this: like great relationships, innovative environments are built on psychological safety, vulnerability, self-deprecation, and failing forward.</p>
+<p>Unsurprisingly, they celebrated their 23rd anniversary that Sunday.</p>
+<p>I thank my brother and sister-in-law for sharing their always-growing love with me, and I congratulate them again.</p>
+<p>Until next time, I wish you much love and fun in your relationships.</p>
+<hr/>
+<p><em>First published on LinkedIn, 15 March 2022. Lightly revised. <a href="https://www.linkedin.com/feed/update/urn:li:activity:6909467007881027584/">Original post</a>.</em></p>
+]]></content:encoded>
+  </item>
+  <item>
+    <title>Assuming Best Intentions Sparks Positivity</title>
+    <link>https://frankbesch.github.io/substack-feed/best-intentions.html</link>
+    <guid isPermaLink="true">https://frankbesch.github.io/substack-feed/best-intentions.html</guid>
+    <pubDate>Tue, 08 Mar 2022 12:00:00 +0000</pubDate>
+    <description>A wrong-number text, a FaceTime with two teenagers, and a glass-half-full outlook</description>
+    <content:encoded><![CDATA[
+<p>The other day, I got a random text from an unknown number asking, "Who is this?"</p>
+<p>I responded, "A question I ask myself every day." Seconds later my iPhone started ringing.</p>
+<p>I found myself on FaceTime with two teenage boys, big smiles all around. We chatted about Houston area codes, how and when I got my number, and what they had planned for the day.</p>
+<p>Unless someone has proven to be unethical, be kind. Assuming the worst is easy when you have experienced bad people, bad luck, or tragedy. Consuming too much for-profit news, or failing to stay out of echo chambers, can warp your sense of reality too.</p>
+<blockquote><p>"A low trust approach might put a floor on how often you get taken advantage of, but it puts a ceiling on what's possible." — Shane Parrish</p></blockquote>
+<p>Empirically, the good in the world outweighs the bad, and it has been trending positive for a long time. If you don't believe it, read <em>Sapiens: A Brief History of Humankind</em> by Yuval Noah Harari.</p>
+<p>Moral of the story, part one: assuming best intentions sparks positivity and happiness.</p>
+<p>Moral of the story, part two: don't randomly text me unless you want a sportive response.</p>
+<p>Until next time, I wish you a glass-half-full outlook.</p>
+<hr/>
+<p><em>First published on LinkedIn, 8 March 2022. Lightly revised. <a href="https://www.linkedin.com/feed/update/urn:li:activity:6906964007106809858/">Original post</a>.</em></p>
+]]></content:encoded>
+  </item>
+  <item>
+    <title>Using Calendars to Create Your Future</title>
+    <link>https://frankbesch.github.io/substack-feed/calendars.html</link>
+    <guid isPermaLink="true">https://frankbesch.github.io/substack-feed/calendars.html</guid>
+    <pubDate>Wed, 02 Mar 2022 12:00:00 +0000</pubDate>
+    <description>Three calendaring techniques that get me where I want to go</description>
+    <content:encoded><![CDATA[
+<p>Yogi Berra famously said, "If you don't know where you're going, you'll end up someplace else."</p>
+<p>My calendar gets me where I want to go because I no longer take it for granted. In my opinion it is one of the most valuable and strategic tools ever created.</p>
+<p>Here are my three favorite calendaring techniques. I hope they help you reach your destination.</p>
+<p><strong>Timebox your to-do list onto your calendar.</strong> This forcing function keeps you focused on the important and not merely the urgent.</p>
+<p><strong>Put meeting objectives and agendas in the invite.</strong> It improves the quality of meetings and respects people's time. Make the title and goals clear, outcome-oriented, and enticing enough that people want to attend and participate.</p>
+<p><strong>Schedule assumptively.</strong> Don't send an email or Slack asking when people are available. Assume everyone's calendar is current and book according to their published availability. Let collaborators propose an alternate time with basic calendar functionality, and negotiate only if the key participants need it.</p>
+<p>Until next time, I wish you a highly productive future.</p>
+<p>Bonus: <a href="https://learn.filtered.com/hubfs/Definitive%20100%20Most%20Useful%20Productivity%20Hacks.pdf">The Definitive 100 Most Useful Productivity Tips</a></p>
+<hr/>
+<p><em>First published on LinkedIn, 2 March 2022. Lightly revised. <a href="https://www.linkedin.com/feed/update/urn:li:activity:6904779165434814464/">Original post</a>.</em></p>
+]]></content:encoded>
+  </item>
+  <item>
+    <title>Leave No Safety Stone Unturned</title>
+    <link>https://frankbesch.github.io/substack-feed/safety-no-stone.html</link>
+    <guid isPermaLink="true">https://frankbesch.github.io/substack-feed/safety-no-stone.html</guid>
+    <pubDate>Tue, 22 Feb 2022 12:00:00 +0000</pubDate>
+    <description>What a fire alarm on a Zoom call taught me about System 1 and System 2</description>
+    <content:encoded><![CDATA[
+<p>Last year, a presenter's fire alarm went off during a Zoom meeting. They were in the zone and lived in a multi-tenant building, so they brushed it off and kept going.</p>
+<p>My brain's System 1, the fast and automatic one, instantly pattern-matched and mirrored the presenter's inertia. My System 2, the slow and deliberate one, said "No Harm." That is a safety mantra, philosophy, and culture I learned at Noble Energy, acquired by Chevron in 2020.</p>
+<p>I interrupted and encouraged the presenter to verify the alarm was false.</p>
+<p>Thankfully there was no fire, and everyone was safe.</p>
+<p>Please take fire alarms seriously, and help others take them seriously. Periodically test your smoke and CO detectors, and make sure your fire extinguishers are charged and ready.</p>
+<p>Thanks to Marc McGill, Ron Jordan, and Bob Bemis for role-modeling how to leave no safety stone unturned.</p>
+<p>Until next time, I wish you a safe future.</p>
+<hr/>
+<p><em>First published on LinkedIn, 22 February 2022. Lightly revised. <a href="https://www.linkedin.com/feed/update/urn:li:activity:6901868739235606528/">Original post</a>.</em></p>
+]]></content:encoded>
+  </item>
+  <item>
+    <title>Using Humor to Reframe and Nudge</title>
+    <link>https://frankbesch.github.io/substack-feed/humor-reframe.html</link>
+    <guid isPermaLink="true">https://frankbesch.github.io/substack-feed/humor-reframe.html</guid>
+    <pubDate>Tue, 15 Feb 2022 12:00:00 +0000</pubDate>
+    <description>A Swiss Army tool, when the intent is good and the EQ is high</description>
+    <content:encoded><![CDATA[
+<p>In a meeting recently, someone asked me, "Don't you lead a young team?" I paused and sensed an opportunity to use humor to improve the question's premise.</p>
+<p>I trusted that his intent was honorable, so I took a risk and responded sarcastically but kindly: "Are you being ageist?" Thankfully he recognized I was being playful and didn't respond negatively.</p>
+<p>Then I answered his original question. "Yes, I lead a team of highly trained, creative, new-career professionals." A friendly and productive conversation followed.</p>
+<p>Humor is a Swiss Army tool for nudging, when it is supported by good intent and executed with high EQ.</p>
+<p>Thanks to Logan for inspiring me to start writing, and to Susan Cunningham for role-modeling how to take a stand meaningfully and kindly.</p>
+<p>Until next time, I wish you a fantastic future.</p>
+<blockquote><p>"A sense of humor helps us get through dull times, cope with the difficult times, enjoy the good times and manage the scary times." — Unknown</p></blockquote>
+<hr/>
+<p><em>First published on LinkedIn, 15 February 2022. Lightly revised. <a href="https://www.linkedin.com/feed/update/urn:li:activity:6899334758061748224/">Original post</a>.</em></p>
+]]></content:encoded>
+  </item>
+</channel>
+</rss>
