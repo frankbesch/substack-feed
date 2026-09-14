@@ -4,9 +4,9 @@
   <title>Frank Besch</title>
   <link>https://frankbesch.github.io/substack-feed/</link>
   <atom:link href="https://frankbesch.github.io/substack-feed/feed.xml" rel="self" type="application/rss+xml"/>
-  <description>Governed autonomy: running sales, operations, and a career as an AI operation, with receipts.</description>
+  <description>Probably approximately correct, rarely.</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 14 Sep 2026 20:21:16 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 14 Sep 2026 22:00:47 +0000</lastBuildDate>
   <item>
     <title>What's the Widest Circle You're Willing to Play For?</title>
     <link>https://frankbesch.github.io/substack-feed/widest-circle.html</link>
@@ -70,7 +70,10 @@
     <guid isPermaLink="true">https://frankbesch.github.io/substack-feed/judgment-is-the-moat.html</guid>
     <pubDate>Wed, 27 May 2026 12:00:00 +0000</pubDate>
     <description>What a stalled platform deal taught me about the 1% of context that matters</description>
+    <enclosure url="https://frankbesch.github.io/substack-feed/images/cover-judgment-is-the-moat.png" length="59382" type="image/png"/>
+    <media:content url="https://frankbesch.github.io/substack-feed/images/cover-judgment-is-the-moat.png" medium="image"/>
     <content:encoded><![CDATA[
+<p><img src="https://frankbesch.github.io/substack-feed/images/cover-judgment-is-the-moat.png" alt="LLMs Don&#x27;t Replace Knowledge Work. They Raise the Return on It."/></p>
 <p>A few years back, I had a $4.5M analytics platform deal going sideways.</p>
 <p>Too many stakeholders, poorly qualified, everyone "interested," and no one actually deciding. The kind of deal that doesn't blow up. It just dies slowly.</p>
 <p>So we reset it. Ran real discovery this time. Underneath the noise there were only two things that mattered to them: inventory visibility and operational risk. We quantified what those were costing, found the person who could actually say yes (the COO, who had been in the room the whole time), and stopped selling the technology. We started selling the decision.</p>
@@ -93,7 +96,10 @@
     <guid isPermaLink="true">https://frankbesch.github.io/substack-feed/accuracy-is-not-a-decision.html</guid>
     <pubDate>Fri, 22 May 2026 12:00:00 +0000</pubDate>
     <description>Prediction answers &quot;what is likely.&quot; Optimization answers &quot;what should we do.&quot;</description>
+    <enclosure url="https://frankbesch.github.io/substack-feed/images/cover-accuracy-is-not-a-decision.png" length="56549" type="image/png"/>
+    <media:content url="https://frankbesch.github.io/substack-feed/images/cover-accuracy-is-not-a-decision.png" medium="image"/>
     <content:encoded><![CDATA[
+<p><img src="https://frankbesch.github.io/substack-feed/images/cover-accuracy-is-not-a-decision.png" alt="A 99% Accurate Model Can Still Be a Bad Decision"/></p>
 <p>A fraud model can be 99% accurate and still be a bad decision.</p>
 <p>If the 1% it flags happens to be your most loyal customers, you didn't catch fraud. You taught good people to leave.</p>
 <p>Prediction answers "what is likely?" Optimization answers "what should we do?" Those are different problems, and we keep confusing them.</p>
@@ -220,7 +226,10 @@
     <guid isPermaLink="true">https://frankbesch.github.io/substack-feed/i-told-you-so.html</guid>
     <pubDate>Tue, 15 Mar 2022 12:00:00 +0000</pubDate>
     <description>What moving furniture taught me about psychological safety</description>
+    <enclosure url="https://frankbesch.github.io/substack-feed/images/cover-i-told-you-so.png" length="42307" type="image/png"/>
+    <media:content url="https://frankbesch.github.io/substack-feed/images/cover-i-told-you-so.png" medium="image"/>
     <content:encoded><![CDATA[
+<p><img src="https://frankbesch.github.io/substack-feed/images/cover-i-told-you-so.png" alt="Delete &quot;I Told You So&quot; From Your Mind"/></p>
 <p>The weekend before last, I helped my brother and sister-in-law move furniture and prepare their home for new carpet. Along the way I got an inside view of how they collaborate.</p>
 <p>My favorite moment came when one of her moving ideas didn't work and she joked, "I lied to you." My brother didn't say, "I told you so." They both chuckled and kept teaming.</p>
 <p>The magic started when she recognized her idea had failed and playfully self-deprecated. I have never had as much fun moving furniture.</p>
@@ -238,7 +247,10 @@
     <guid isPermaLink="true">https://frankbesch.github.io/substack-feed/best-intentions.html</guid>
     <pubDate>Tue, 08 Mar 2022 12:00:00 +0000</pubDate>
     <description>A wrong-number text, a FaceTime with two teenagers, and a glass-half-full outlook</description>
+    <enclosure url="https://frankbesch.github.io/substack-feed/images/cover-best-intentions.png" length="49254" type="image/png"/>
+    <media:content url="https://frankbesch.github.io/substack-feed/images/cover-best-intentions.png" medium="image"/>
     <content:encoded><![CDATA[
+<p><img src="https://frankbesch.github.io/substack-feed/images/cover-best-intentions.png" alt="Assuming Best Intentions Sparks Positivity"/></p>
 <p>The other day, I got a random text from an unknown number asking, "Who is this?"</p>
 <p>I responded, "A question I ask myself every day." Seconds later my iPhone started ringing.</p>
 <p>I found myself on FaceTime with two teenage boys, big smiles all around. We chatted about Houston area codes, how and when I got my number, and what they had planned for the day.</p>
@@ -258,7 +270,10 @@
     <guid isPermaLink="true">https://frankbesch.github.io/substack-feed/calendars.html</guid>
     <pubDate>Wed, 02 Mar 2022 12:00:00 +0000</pubDate>
     <description>Three calendaring techniques that get me where I want to go</description>
+    <enclosure url="https://frankbesch.github.io/substack-feed/images/cover-calendars.png" length="45660" type="image/png"/>
+    <media:content url="https://frankbesch.github.io/substack-feed/images/cover-calendars.png" medium="image"/>
     <content:encoded><![CDATA[
+<p><img src="https://frankbesch.github.io/substack-feed/images/cover-calendars.png" alt="Using Calendars to Create Your Future"/></p>
 <p>Yogi Berra famously said, "If you don't know where you're going, you'll end up someplace else."</p>
 <p>My calendar gets me where I want to go because I no longer take it for granted. In my opinion it is one of the most valuable and strategic tools ever created.</p>
 <p>Here are my three favorite calendaring techniques. I hope they help you reach your destination.</p>
@@ -277,7 +292,10 @@
     <guid isPermaLink="true">https://frankbesch.github.io/substack-feed/safety-no-stone.html</guid>
     <pubDate>Tue, 22 Feb 2022 12:00:00 +0000</pubDate>
     <description>What a fire alarm on a Zoom call taught me about System 1 and System 2</description>
+    <enclosure url="https://frankbesch.github.io/substack-feed/images/cover-safety-no-stone.png" length="42676" type="image/png"/>
+    <media:content url="https://frankbesch.github.io/substack-feed/images/cover-safety-no-stone.png" medium="image"/>
     <content:encoded><![CDATA[
+<p><img src="https://frankbesch.github.io/substack-feed/images/cover-safety-no-stone.png" alt="Leave No Safety Stone Unturned"/></p>
 <p>Last year, a presenter's fire alarm went off during a Zoom meeting. They were in the zone and lived in a multi-tenant building, so they brushed it off and kept going.</p>
 <p>My brain's System 1, the fast and automatic one, instantly pattern-matched and mirrored the presenter's inertia. My System 2, the slow and deliberate one, said "No Harm." That is a safety mantra, philosophy, and culture I learned at Noble Energy, acquired by Chevron in 2020.</p>
 <p>I interrupted and encouraged the presenter to verify the alarm was false.</p>
@@ -295,7 +313,10 @@
     <guid isPermaLink="true">https://frankbesch.github.io/substack-feed/humor-reframe.html</guid>
     <pubDate>Tue, 15 Feb 2022 12:00:00 +0000</pubDate>
     <description>A Swiss Army tool, when the intent is good and the EQ is high</description>
+    <enclosure url="https://frankbesch.github.io/substack-feed/images/cover-humor-reframe.png" length="42148" type="image/png"/>
+    <media:content url="https://frankbesch.github.io/substack-feed/images/cover-humor-reframe.png" medium="image"/>
     <content:encoded><![CDATA[
+<p><img src="https://frankbesch.github.io/substack-feed/images/cover-humor-reframe.png" alt="Using Humor to Reframe and Nudge"/></p>
 <p>In a meeting recently, someone asked me, "Don't you lead a young team?" I paused and sensed an opportunity to use humor to improve the question's premise.</p>
 <p>I trusted that his intent was honorable, so I took a risk and responded sarcastically but kindly: "Are you being ageist?" Thankfully he recognized I was being playful and didn't respond negatively.</p>
 <p>Then I answered his original question. "Yes, I lead a team of highly trained, creative, new-career professionals." A friendly and productive conversation followed.</p>
