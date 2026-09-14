@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
   <title>Frank Besch</title>
   <link>https://frankbesch.github.io/substack-feed/</link>
   <atom:link href="https://frankbesch.github.io/substack-feed/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Governed autonomy: running sales, operations, and a career as an AI operation, with receipts.</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 14 Sep 2026 19:55:56 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 14 Sep 2026 20:09:46 +0000</lastBuildDate>
   <item>
-    <title>What&#x27;s the Widest Circle You&#x27;re Willing to Play For?</title>
+    <title>What's the Widest Circle You're Willing to Play For?</title>
     <link>https://frankbesch.github.io/substack-feed/widest-circle.html</link>
     <guid isPermaLink="true">https://frankbesch.github.io/substack-feed/widest-circle.html</guid>
     <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
     <description>A 2008 sales-team game, and the physics paper that finally explained it</description>
+    <enclosure url="https://frankbesch.github.io/substack-feed/images/widest-circle.jpg" length="31402" type="image/jpeg"/>
+    <media:content url="https://frankbesch.github.io/substack-feed/images/widest-circle.jpg" medium="image"/>
     <content:encoded><![CDATA[
+<p><img src="https://frankbesch.github.io/substack-feed/images/widest-circle.jpg" alt="What&#x27;s the Widest Circle You&#x27;re Willing to Play For?"/></p>
 <p>In 2008 I ran a game with our regional sales and presales teams at Oracle. I thought it was a lesson about teamwork. A physics paper published this summer finally explained what I'd seen.</p>
 <p>Our applications reps and technology reps chased the same accounts on separate quotas. Same company, opposite incentives. As territorial as it gets.</p>
 <p>So I put apps on one side and tech on the other, gave everyone cards marked C (cooperate) and D (defect), and reframed the Prisoner's Dilemma. Not prisoners. Two account teams working the same deal. Play C and the account grows. Play D and you win the round but shrink the pie.</p>
@@ -42,7 +45,10 @@
     <guid isPermaLink="true">https://frankbesch.github.io/substack-feed/variance-you-pay-for.html</guid>
     <pubDate>Thu, 04 Jun 2026 12:00:00 +0000</pubDate>
     <description>Mark Cuban is half right about enterprise AI&#x27;s biggest problem</description>
+    <enclosure url="https://frankbesch.github.io/substack-feed/images/variance-you-pay-for.jpg" length="38961" type="image/jpeg"/>
+    <media:content url="https://frankbesch.github.io/substack-feed/images/variance-you-pay-for.jpg" medium="image"/>
     <content:encoded><![CDATA[
+<p><img src="https://frankbesch.github.io/substack-feed/images/variance-you-pay-for.jpg" alt="Intelligence Generates Possibilities. You Get Paid for the Decision."/></p>
 <p>Mark Cuban says the biggest problem with enterprise AI is that you still can't guarantee everyone gets the same answer to the same question every time.</p>
 <p>He's half right. The problem isn't the variance. It's that we treat all variance the same.</p>
 <p>Humans don't give the same answer every time either. We don't try to force them to.</p>
@@ -59,7 +65,7 @@
 ]]></content:encoded>
   </item>
   <item>
-    <title>LLMs Don&#x27;t Replace Knowledge Work. They Raise the Return on It.</title>
+    <title>LLMs Don't Replace Knowledge Work. They Raise the Return on It.</title>
     <link>https://frankbesch.github.io/substack-feed/judgment-is-the-moat.html</link>
     <guid isPermaLink="true">https://frankbesch.github.io/substack-feed/judgment-is-the-moat.html</guid>
     <pubDate>Wed, 27 May 2026 12:00:00 +0000</pubDate>
@@ -100,12 +106,15 @@
 ]]></content:encoded>
   </item>
   <item>
-    <title>Poe&#x27;s Law for the AI Era</title>
+    <title>Poe's Law for the AI Era</title>
     <link>https://frankbesch.github.io/substack-feed/poes-law.html</link>
     <guid isPermaLink="true">https://frankbesch.github.io/substack-feed/poes-law.html</guid>
     <pubDate>Wed, 06 May 2026 12:00:00 +0000</pubDate>
     <description>When everything sounds credible, discernment is the scarce asset</description>
+    <enclosure url="https://frankbesch.github.io/substack-feed/images/poes-law.jpg" length="113878" type="image/jpeg"/>
+    <media:content url="https://frankbesch.github.io/substack-feed/images/poes-law.jpg" medium="image"/>
     <content:encoded><![CDATA[
+<p><img src="https://frankbesch.github.io/substack-feed/images/poes-law.jpg" alt="Poe&#x27;s Law for the AI Era"/></p>
 <p>Poe's Law feels increasingly relevant in the AI era.</p>
 <p>Originally it described how satire online became indistinguishable from sincere belief.</p>
 <p>Now we may be facing a different version.</p>
@@ -120,29 +129,69 @@
 ]]></content:encoded>
   </item>
   <item>
-    <title>If Your Prompt Is Getting Longer, You Might Be Getting Worse</title>
-    <link>https://frankbesch.github.io/substack-feed/context-compression.html</link>
-    <guid isPermaLink="true">https://frankbesch.github.io/substack-feed/context-compression.html</guid>
-    <pubDate>Sat, 18 Apr 2026 12:00:00 +0000</pubDate>
-    <description>A short take on context, compression, and starting from the decision</description>
+    <title>Efficiency Is Tactical. Efficacy Is Leverage.</title>
+    <link>https://frankbesch.github.io/substack-feed/efficacy-is-leverage.html</link>
+    <guid isPermaLink="true">https://frankbesch.github.io/substack-feed/efficacy-is-leverage.html</guid>
+    <pubDate>Thu, 23 Apr 2026 12:00:00 +0000</pubDate>
+    <description>I&#x27;m continuously rethinking how I use AI</description>
+    <enclosure url="https://frankbesch.github.io/substack-feed/images/rethinking-ai.jpg" length="69888" type="image/jpeg"/>
+    <media:content url="https://frankbesch.github.io/substack-feed/images/rethinking-ai.jpg" medium="image"/>
     <content:encoded><![CDATA[
-<p>An AI read my USPS tracking number and confidently reported it as a nine-sextillion-digit number.</p>
-<p>I saw a package.</p>
-<p>Context matters. And the way most teams add context is making things worse.</p>
-<p><strong>Stop shipping AI-generated context without compression.</strong> A recent study of repository-level context files for coding agents (<a href="https://arxiv.org/abs/2602.11988">Gloaguen et al., arXiv:2602.11988</a>) found the pattern: more tokens bring more constraints, and more constraints bring worse performance.</p>
-<p>The trap is subtle. AI-generated context looks high quality. It is clean, structured, and comprehensive. But most of it is repackaged information the model already knows. No new signal, just noise with confidence.</p>
-<p>High-performing teams ask a different question. Not "what else should we add?" but "what can we remove?"</p>
-<p><strong>Optimizing AI for cost is the same distraction from the other side.</strong> Cheap prompts that drive weak decisions are expensive. In sales and presales, that shows up as slower deals and lost revenue.</p>
-<p>So start with the decision, not the task.</p>
+<p><img src="https://frankbesch.github.io/substack-feed/images/rethinking-ai.jpg" alt="Efficiency Is Tactical. Efficacy Is Leverage."/></p>
+<p>Optimizing AI for cost is a distraction.</p>
+<p>Cheap prompts that drive weak decisions are expensive.</p>
+<p>In sales and presales, that shows up as slower deals and lost revenue.</p>
+<p>Start with the decision, not the task.</p>
 <ul><li>Include only the context that changes the answer.</li><li>Force a tight output: verdict, then drivers, then risks.</li></ul>
 <p>Fewer prompts. Better decisions. Faster outcomes.</p>
 <p>Efficiency is tactical. Efficacy is leverage.</p>
 <hr/>
-<p><em>Merged from three LinkedIn posts, 18 April, 23 April, and 13 May 2026. Lightly revised. <a href="https://www.linkedin.com/feed/update/urn:li:activity:7451368574218133504/">Original post</a>.</em></p>
+<p><em>First published on LinkedIn, 23 April 2026. Lightly revised. <a href="https://www.linkedin.com/feed/update/urn:li:activity:7453201134195802113/">Original post</a>.</em></p>
 ]]></content:encoded>
   </item>
   <item>
-    <title>Delete &quot;I Told You So&quot; From Your Mind</title>
+    <title>Stop Letting AI Write Your Prompts</title>
+    <link>https://frankbesch.github.io/substack-feed/context-compression.html</link>
+    <guid isPermaLink="true">https://frankbesch.github.io/substack-feed/context-compression.html</guid>
+    <pubDate>Sat, 18 Apr 2026 12:00:00 +0000</pubDate>
+    <description>More precisely, stop shipping AI-generated context without compression</description>
+    <enclosure url="https://frankbesch.github.io/substack-feed/images/context-compression.jpg" length="134319" type="image/jpeg"/>
+    <media:content url="https://frankbesch.github.io/substack-feed/images/context-compression.jpg" medium="image"/>
+    <content:encoded><![CDATA[
+<p><img src="https://frankbesch.github.io/substack-feed/images/context-compression.jpg" alt="Stop Letting AI Write Your Prompts"/></p>
+<p>An AI read my USPS tracking number and confidently reported it as a nine-sextillion-digit number.</p>
+<p>I saw a package.</p>
+<p>Context matters. And the way most teams add context is making things worse.</p>
+<p><strong>Stop letting AI write your prompts.</strong> More precisely, stop shipping AI-generated context without compression.</p>
+<p>A recent paper on agent design (<a href="https://arxiv.org/abs/2602.11988">Gloaguen et al., arXiv:2602.11988</a>) shows a counterintuitive pattern: more tokens create more constraints, and more constraints often lead to worse performance.</p>
+<p>The trap is subtle. AI-generated context looks high quality. It is clean, structured, and comprehensive. But most of it is repackaged information the model already knows. It doesn't add signal. It adds noise, delivered with confidence.</p>
+<p>High-performing teams operate differently. They don't ask, "What else should we add?" They ask, "What can we remove?"</p>
+<p>Most prompts don't fail because they lack context. They fail because they have too much of the wrong kind.</p>
+<p>Longer prompts don't necessarily lead to better outcomes.</p>
+<p>Tighter context wins.</p>
+<hr/>
+<p><em>First published on LinkedIn, 18 April 2026. Lightly revised. <a href="https://www.linkedin.com/feed/update/urn:li:activity:7451368574218133504/">Original post</a>.</em></p>
+]]></content:encoded>
+  </item>
+  <item>
+    <title>Where to Draw the Line on AI Autonomy</title>
+    <link>https://frankbesch.github.io/substack-feed/ai-deployment-map.html</link>
+    <guid isPermaLink="true">https://frankbesch.github.io/substack-feed/ai-deployment-map.html</guid>
+    <pubDate>Wed, 22 Oct 2025 12:00:00 +0000</pubDate>
+    <description>Public acceptance versus worker desire, on one map</description>
+    <enclosure url="https://frankbesch.github.io/substack-feed/images/ai-deployment-map.jpg" length="63223" type="image/jpeg"/>
+    <media:content url="https://frankbesch.github.io/substack-feed/images/ai-deployment-map.jpg" medium="image"/>
+    <content:encoded><![CDATA[
+<p><img src="https://frankbesch.github.io/substack-feed/images/ai-deployment-map.jpg" alt="Where to Draw the Line on AI Autonomy"/></p>
+<p>AI adoption is not just about technology. It's about understanding the delicate balance between public moral acceptance and worker desire.</p>
+<p>This AI Deployment Map is a reminder of where to draw the line between autonomy, co-pilot assistance, and purely assistive functions.</p>
+<p>Where do you see your team applying AI for the greatest impact?</p>
+<hr/>
+<p><em>First published on LinkedIn, 22 October 2025. Lightly revised. <a href="https://www.linkedin.com/feed/update/urn:li:activity:7386832592043642880/">Original post</a>.</em></p>
+]]></content:encoded>
+  </item>
+  <item>
+    <title>Delete "I Told You So" From Your Mind</title>
     <link>https://frankbesch.github.io/substack-feed/i-told-you-so.html</link>
     <guid isPermaLink="true">https://frankbesch.github.io/substack-feed/i-told-you-so.html</guid>
     <pubDate>Tue, 15 Mar 2022 12:00:00 +0000</pubDate>
